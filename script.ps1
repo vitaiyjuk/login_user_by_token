@@ -6,8 +6,9 @@ $secretFile = "$usbDrive\secret.key.txt"
 $expectedSecret = "MY_SUPER_SECRET_12345"  # Your secret text here
 
 # Telegram Bot API Token and Chat ID (ENTER YOUR DETAILS HERE)
-$telegramToken = "YOUR_TELEGRAM_BOT_TOKEN"  #  <---  IMPORTANT:  Double-check this!
-$telegramChatId = "YOUR_TELEGRAM_CHAT_ID"    #  <---  IMPORTANT:  Double-check this!
+$telegramToken = "****"  #  <---  IMPORTANT:  Double-check this!
+$telegramChatId = "****"    #  <---  IMPORTANT:  Double-check this!
+
 $telegramMessage = "Autentefication without token"
 
 # Path to the log file
